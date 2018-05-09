@@ -1,0 +1,12 @@
+Install Atom
+  Go To Site
+
+Install git
+  Go To Site
+  Demo Download
+  Demo Installation
+  Demo git init
+
+Create Github Account
+  Go To Site
+  Demo git clone
