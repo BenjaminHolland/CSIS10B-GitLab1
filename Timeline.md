@@ -18,7 +18,7 @@
   2. Complete the signup processes
      - Be professional when choosing email address and username. Many employers will check your github projects, so keep that in mind.
   3. Turn in your github username.
-  4. You will receive an invite as a collaborator sometime during the next week. Ensure you accept this invite by next class
+  4. You will receive an invite to be a collaborator sometime during the next week. Ensure you accept this invite by next class
 
 ## Feel Good, You're done.
 
