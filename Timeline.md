@@ -8,16 +8,16 @@
 
 ## Check git install
 1. Open command prompt of your choice
-  1. Mac: Terminal
-  2. Windows: cmd, PowerShell, (bash)
-  3. Linux: bash, terminal, whatever you feel like
+   - Mac: Terminal
+   - Windows: cmd, PowerShell, (bash)
+   - Linux: bash, terminal, whatever you feel like
 2. Check git works
-  1. `git --version`
+   - `git --version`
 
 ## Create Github Account
   1. Go to [Github][fc0d91bf]
   2. Complete the signup processes
-    1. Be professional when choosing email address and username. Many employers will check your github projects, so keep that in mind.
+     - Be professional when choosing email address and username. Many employers will check your github projects, so keep that in mind.
   3. Turn in your github username.
 
 ## Feel Good, You're done.
