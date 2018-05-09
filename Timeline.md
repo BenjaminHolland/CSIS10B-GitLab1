@@ -5,7 +5,6 @@
 2. Download the installer for your operating system
 3. Install git using the installer
 
-
 ## Check git install
 1. Open command prompt of your choice
    - Mac: Terminal
@@ -19,6 +18,7 @@
   2. Complete the signup processes
      - Be professional when choosing email address and username. Many employers will check your github projects, so keep that in mind.
   3. Turn in your github username.
+  4. You will receive an invite as a collaborator sometime during the next week. Ensure you accept this invite by next class
 
 ## Feel Good, You're done.
 
