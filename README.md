@@ -17,7 +17,7 @@
   1. Go to [Github][fc0d91bf]
   2. Complete the signup processes
      - Be professional when choosing email address and username. Many employers will check your github projects, so keep that in mind.
-  3. Turn in your github username.
+  3. Star this repository to show you have completed this lab.
   4. You will receive an invite to be a collaborator sometime during the next week. Ensure you accept this invite by next class
 
 ## Feel Good, You're Done.
