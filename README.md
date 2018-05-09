@@ -5,7 +5,7 @@
 2. Download the installer for your operating system
 3. Install git using the installer
 
-## Check git install
+## Check Git Install
 1. Open command prompt of your choice
    - Mac: Terminal
    - Windows: cmd, PowerShell, (bash)
@@ -20,7 +20,7 @@
   3. Turn in your github username.
   4. You will receive an invite to be a collaborator sometime during the next week. Ensure you accept this invite by next class
 
-## Feel Good, You're done.
+## Feel Good, You're Done.
 
   [610af96d]: https://git-scm.com/ "git download"  
   [fc0d91bf]: https://github.com/ "Github"
